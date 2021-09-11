@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Trogdon | UC Applied PDE Seminar</title>
+    <link>//ucmath.github.io/author/thomas-trogdon/</link>
+      <atom:link href="//ucmath.github.io/author/thomas-trogdon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Trogdon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright>
+    <image>
+      <url>//ucmath.github.io/author/thomas-trogdon/avatar_hu6e8a8b01dd3cc7b5c097aa4d752f4d89_297250_270x270_fill_q100_lanczos_center.jpg</url>
+      <title>Thomas Trogdon</title>
+      <link>//ucmath.github.io/author/thomas-trogdon/</link>
+    </image>
+    
+    <item>
+      <title>Numerical inverse scattering for the KdV equation revisited</title>
+      <link>//ucmath.github.io/talk/trogdon-2021/</link>
+      <pubDate>Tue, 21 Sep 2021 16:00:00 +0000</pubDate>
+      <guid>//ucmath.github.io/talk/trogdon-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

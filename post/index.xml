@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | UC Applied PDE Seminar</title>
+    <link>//ucmath.github.io/post/</link>
+      <atom:link href="//ucmath.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright>
+    <image>
+      <url>//ucmath.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>//ucmath.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>Taft Lecture: Percy Deift</title>
+      <link>//ucmath.github.io/post/taft-2020/</link>
+      <pubDate>Tue, 04 Feb 2020 12:20:27 -0400</pubDate>
+      <guid>//ucmath.github.io/post/taft-2020/</guid>
+      <description>&lt;p&gt;Percy Deift, Silver Professor of Mathematics from the Courant Institute of Mathematical Sciences, New York University, will be giving the 
+&lt;a href=&#34;https://www.artsci.uc.edu/departments/math/news-events/taft-lectures.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Taft Lecture&lt;/a&gt; in Spring 2020 at the University of Cincinnati. The poster for the announcement is 
+&lt;a href=&#34;https://www.artsci.uc.edu/content/dam/refresh/artsandsciences-62/departments/math/docs/Percy%20Deift.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Date: March 4, 2020
+Time: 4:00 PM
+Location: Room 500 Swift Hall&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Universality phenomena in numerical computation with random data&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The speaker will discuss various standard numerical algorithms acting on random data. It turns out that the fluctuations in the time to compute the solution of the problem at hand to a desired accuracy, turn out to be universal, independent of the statistical assumptions on the data. Some of the results discussed are numerical and experimental, and some are proved rigorously. This is joint work with various authors, C. Pfrang, G. Menon, S. Olver, S. Miller, and (mostly) with Tom Trogdon.&lt;/em&gt;&lt;/p&gt;
+&lt;!-- ![This is an image](/img/eniac.jpg) --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
