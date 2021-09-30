@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mathew Johnson | UC Applied PDE Seminar</title>
+    <link>//ucmath.github.io/author/mathew-johnson/</link>
+      <atom:link href="//ucmath.github.io/author/mathew-johnson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mathew Johnson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 09 Nov 2021 16:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//ucmath.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Mathew Johnson</title>
+      <link>//ucmath.github.io/author/mathew-johnson/</link>
+    </image>
+    
+    <item>
+      <title>Stability of periodic Lugiato-Lefever Waves</title>
+      <link>//ucmath.github.io/talk/mat-johnson-2021/</link>
+      <pubDate>Tue, 09 Nov 2021 16:00:00 +0000</pubDate>
+      <guid>//ucmath.github.io/talk/mat-johnson-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
