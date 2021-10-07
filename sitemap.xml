@@ -33,11 +33,6 @@
   </url>
   
   <url>
-    <loc>//ucmath.github.io/tag/cubic-nonlinear-schrodinger-equation/</loc>
-    <lastmod>2021-10-19T16:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>//ucmath.github.io/author/gong-chen/</loc>
     <lastmod>2021-10-19T16:00:00+00:00</lastmod>
   </url>
@@ -53,12 +48,12 @@
   </url>
   
   <url>
-    <loc>//ucmath.github.io/author/benjamin-akers/</loc>
-    <lastmod>2021-10-05T16:00:00+00:00</lastmod>
+    <loc>//ucmath.github.io/tag/nonlinear-schrodinger-equation/</loc>
+    <lastmod>2021-10-19T16:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//ucmath.github.io/tag/bifurcation/</loc>
+    <loc>//ucmath.github.io/author/benjamin-akers/</loc>
     <lastmod>2021-10-05T16:00:00+00:00</lastmod>
   </url>
   
@@ -69,6 +64,11 @@
   
   <url>
     <loc>//ucmath.github.io/talk/akers-2021/</loc>
+    <lastmod>2021-10-05T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//ucmath.github.io/tag/wilton-ripples/</loc>
     <lastmod>2021-10-05T16:00:00+00:00</lastmod>
   </url>
   

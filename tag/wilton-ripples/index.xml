@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wilton ripples | UC Applied PDE Seminar</title>
+    <link>//ucmath.github.io/tag/wilton-ripples/</link>
+      <atom:link href="//ucmath.github.io/tag/wilton-ripples/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wilton ripples</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 05 Oct 2021 16:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//ucmath.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Wilton ripples</title>
+      <link>//ucmath.github.io/tag/wilton-ripples/</link>
+    </image>
+    
+    <item>
+      <title>Wave resonances: existence and computation</title>
+      <link>//ucmath.github.io/talk/akers-2021/</link>
+      <pubDate>Tue, 05 Oct 2021 16:00:00 +0000</pubDate>
+      <guid>//ucmath.github.io/talk/akers-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
